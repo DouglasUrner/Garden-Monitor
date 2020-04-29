@@ -1,3 +1,16 @@
+## Spec
+
+* Solar powered
+* Sensors
+   - Battery voltage
+   - Light
+   - Soil Temperature x 4
+   - Soil Humidity (VWC) x 4
+   - Air Temperature & Humidity
+* Web status / configuration
+* Log data (JSON to server?)
+* Wakeup button / reporting LED
+
 ## Hardware
 
 ### Raspberry Pi 0W
