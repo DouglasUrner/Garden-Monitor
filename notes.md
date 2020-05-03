@@ -3,13 +3,16 @@
 * Solar powered
 * Sensors
    - Battery voltage
-   - Light
-   - Soil Temperature x 4
-   - Soil Humidity (VWC) x 4
+   - Light (solar energy - use solar panel to measure? Apparently the short circuit current of a solar panel is proportional to the energy input (presumably factored by the efficiency of the panel))
+   - Soil Temperature x 4 (DS18B20)
+   - Soil Humidity (VWC) x 4 (Vegetronix VH400)
    - Air Temperature & Humidity
 * Web status / configuration
 * Log data (JSON to server?)
+   - Prometheus ()
+   - Grafana ()
 * Wakeup button / reporting LED
+* Watchdog
 
 ## Hardware
 
