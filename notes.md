@@ -10,7 +10,7 @@
 * Web status / configuration
 * Log data (JSON to server?)
    - Prometheus (https://github.com/prometheus/prometheus)
-   - Grafana ()
+   - Grafana (https://github.com/grafana/grafana)
 * Wakeup button / reporting LED
 * Watchdog
 
