@@ -9,7 +9,7 @@
    - Air Temperature & Humidity
 * Web status / configuration
 * Log data (JSON to server?)
-   - Prometheus ()
+   - Prometheus (https://github.com/prometheus/prometheus)
    - Grafana ()
 * Wakeup button / reporting LED
 * Watchdog
